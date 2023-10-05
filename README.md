@@ -1,4 +1,4 @@
 # codingseekho
 demo
-author - Rahul sardar
+author - RAHUL SARDAR
 <h1>Coding SeeKho</h1>
